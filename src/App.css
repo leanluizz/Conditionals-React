@@ -1,0 +1,59 @@
+@keyframes down-up {
+  0%{
+    padding-top:80px;
+    opacity: 0%;
+    transition: 1s;
+  }
+  100%{
+    padding-top: 0px;
+    opacity: 100%;
+    transition: 1s;
+  }
+}
+body{
+  text-shadow: 15px 10px 15px black;
+  background-image: url("../src/images/malik-skydsgaard-jY9rX-E7ztU-unsplash.jpg");
+  background-size: cover;
+}
+.App {
+  text-align: center;
+  min-height: 100vh;
+  animation: down-up 3s alternate;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.content-inline{
+  display: flex;
+  justify-content: space-between;
+  width: 30%;
+}
+.content-button{
+  background-color: #16171b;
+  text-align: center;
+  color: white;
+  font-weight: bolder;
+  box-shadow: 5px 5px black;
+  border: 0;
+  font-size: 30px;
+  width: 40%;
+  height: 6vh;
+  margin-top: 20px;
+  border-radius: 15px 15px;
+}
+input{
+  width: 70%;
+  margin-left: 2vw;
+  border-radius: 4px;
+  border: 0;
+  outline: 0;
+}
+
