@@ -27,6 +27,6 @@ That component is a conditional, and you have do answer in
 > False
 [![False](https://raw.githubusercontent.com/leanluizz/Conditionals-React/principal/src/images/false.png)]
 
-And the `&&` is a `Logic Operator`
+And the `&&` is a `Logic Operator` him show ypur how the conditonal will maked return the two arguments case is `true` and nothing case `false`
 
 For more information search about it and ever pratice
