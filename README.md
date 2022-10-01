@@ -23,7 +23,7 @@ if(conditional) {}
 That component is a conditional, and you have do answer in
 
 > True
-
+[![True](https://raw.githubusercontent.com/leanluizz/Conditionals-React/principal/src/images/true.png)]
 > False
 [![False](https://raw.githubusercontent.com/leanluizz/Conditionals-React/principal/src/images/false.png)]
 
