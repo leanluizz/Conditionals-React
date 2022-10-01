@@ -23,6 +23,7 @@ if(conditional) {}
 That component is a conditional, and you have do answer
 
 > True
+
 > False
 
 For more information search about it and ever pratice
