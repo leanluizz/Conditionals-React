@@ -25,5 +25,6 @@ That component is a conditional, and you have do answer in
 > True
 
 > False
+[!(https://raw.githubusercontent.com/leanluizz/Conditionals-React/principal/src/images/false.png)]
 
 For more information search about it and ever pratice
