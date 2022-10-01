@@ -20,7 +20,7 @@ It's the same what IFELSE
 
 if(conditional) {}
 
-That component is a conditional, and you have do answer
+That component is a conditional, and you have do answer in
 
 > True
 
