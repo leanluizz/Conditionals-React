@@ -1,9 +1,12 @@
 # Conditionals-React
 
-<li>That is  a simple app of Student Grade test for show how a conditional react work</li>
-<li>Conditional React is a form for validation for true or false</li>
 
-How i'll use?
+## Download the repository and run > npm start < in your bash
+
+- That is  a simple app of Student Grade test for show how a conditional react work
+- Conditional React is a form for validation for true or false
+
+##How i'll use?
 
 Begin with 
 <>
@@ -13,6 +16,13 @@ component
 }
 </>
 
-And over!!
+It's the same what IFELSE
 
-For more information search about it.
+if(conditional) {}
+
+That component is a conditional, and you have do answer
+
+> True
+> False
+
+For more information search about it and ever pratice
